@@ -24,7 +24,7 @@ A Streamlit web app that finds the most relevant resumes from a set of PDFs usin
 git clone https://github.com/your-username/resume-search-engine.git
 cd resume-search-engine
 
-**### 1. Clone the Repository**
+**### Folder Structure **
 
 resume-search-engine/               <- 🔹 Main project folder (your GitHub repo name)
 │

@@ -2,6 +2,7 @@
 # 🧠 AI-Powered Resume Search Engine
 
 A Streamlit web app that finds the most relevant resumes from a set of PDFs using AI-powered semantic search. Paste a job description, and the app shows the top matching resumes based on their similarity.
+![ss1](https://github.com/user-attachments/assets/c7db1505-b3a3-4b4e-b845-351e17c277bf)
 
 ---
 
@@ -41,5 +42,3 @@ resume-search-engine/               <- 🔹 Main project folder
 ├── README.md                       <- 📄 Most important file on GitHub!
 ├── .gitignore                      <- Ignore Python cache, virtual env, PDFs, etc.
 
-
-![ss1](https://github.com/user-attachments/assets/2b754229-d763-4be5-8a30-0ffe745690a3)

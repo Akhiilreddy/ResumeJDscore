@@ -9,6 +9,7 @@ if st.button("Search"):
     if job_desc:
         results = search_resumes(store, job_desc)
         for res, score in results:
-            st.write(f"**File**: {res['filename']} | **Similarity Score**: {round(score, 2)}")
+            percentage = score * 100
+            st.write(f"**File**: {res['filename']} | **Match Score**:  {percentage:.1f}%")
             with st.expander("Show Resume Text"):
                 st.write(res['text'])

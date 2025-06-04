@@ -26,7 +26,7 @@ cd resume-search-engine
 
 **### Folder Structure **
 
-resume-search-engine/               <- 🔹 Main project folder (your GitHub repo name)
+resume-search-engine/               <- 🔹 Main project folder
 │
 ├── app.py                          <- Main Streamlit app
 ├── embedder.py                     <- Embedding logic
@@ -40,3 +40,6 @@ resume-search-engine/               <- 🔹 Main project folder (your GitHub rep
 ├── requirements.txt                <- Python dependencies
 ├── README.md                       <- 📄 Most important file on GitHub!
 ├── .gitignore                      <- Ignore Python cache, virtual env, PDFs, etc.
+
+
+![ss1](https://github.com/user-attachments/assets/c7db1505-b3a3-4b4e-b845-351e17c277bf)
